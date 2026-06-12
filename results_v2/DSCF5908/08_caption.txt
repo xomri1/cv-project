@@ -1,0 +1,3 @@
+BLIP background: there are two people standing in front of a fountain with statues
+Prompt: empty there are two people standing in front of a fountain with statues, clean continuous background, no people, photorealistic, natural daylight
+Neg: person, people, man, woman, boy, girl, child, human, tourist, crowd, face, body, figure, silhouette, pedestrian, blurry, distorted, low quality, watermark, text, deformed, artifacts, extra limbs
